@@ -1,8 +1,8 @@
-# Ponto Inteligente Cliente
-Código cliente Angular 8 do sistema de ponto inteligente.
+# Check Post
+Código  Angular 8 do sistema de ponto de controle.
 ### Como executar a aplicação
-O código cliente depende da API RESTful [https://github.com/m4rciosouza/ponto-inteligente-api-curso-angular](https://github.com/m4rciosouza/ponto-inteligente-api-curso-angular), que deverá estar configurada e em execução como requisito.
-Para executar o cliente (após a execução da API RESTful), execute os seguintes passos:
+O código  depende da API RESTful [https://github.com/m4rciosouza/ponto-inteligente-api-curso-angular](https://github.com/m4rciosouza/ponto-inteligente-api-curso-angular), que deverá estar configurada e em execução como requisito.
+Para executar o código (após a execução da API RESTful), execute os seguintes passos:
 ```
 git clone https://github.com/m4rciosouza/ponto-inteligente-client-curso-angular8.git
 cd ponto-inteligente-client-curso-angular8
