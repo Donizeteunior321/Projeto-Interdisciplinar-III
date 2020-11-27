@@ -8,7 +8,7 @@ git clone https://github.com/Donizeteunior321/Projeto-Interdisciplinar-III.git
 cd Projeto-Interdisciplinar-III
 npm install -g @angular/cli
 npm install
-npm start
+npm start ou ng serve
 ```
 Acesse a aplicação em [http://localhost:4200](http://localhost:4200)  
 
